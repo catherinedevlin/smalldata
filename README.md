@@ -4,6 +4,10 @@ A curated list of resources for beginner-level data manipulation in Python.
 
 Please help flesh it out with suggestions of more resources!
 
+Rather than a list of data-handling or data science resources in 
+general, which would be very long and not very useful, I want to 
+produce a list specifically helpful to very new Python learners 
+and those helping them learn.
 
 ## Resources 
 
