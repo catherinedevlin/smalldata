@@ -16,7 +16,7 @@ and those helping them learn.
 - _Python and Spreadsheets_ by Kojo Idrissa: [PyOhio 2017 talk](http://pyvideo.org/pyohio-2017/python-and-spreadsheets-2017-edition.html), [repo with demo notebooks](https://github.com/kojoidrissa/pyohio_2017)
 - [Community Data Science Collective](https://wiki.communitydata.cc/Main_Page)
 - [GDP For the USA](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
-
+- [Global Health Observatory datasets](http://apps.who.int/gho/data/node.home)
 
 
 
