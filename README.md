@@ -27,6 +27,6 @@ Data sources listed here should be easy for beginners to use.
 - Todd Motto's [Public APIs](https://github.com/toddmotto/public-apis) 
 - [GDP For the USA](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
 - [Global Health Observatory datasets](http://apps.who.int/gho/data/node.home)
-
+- [Microsoft Curated datasets](https://msropendata.com/)
 
 
