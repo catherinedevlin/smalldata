@@ -17,6 +17,6 @@ and those helping them learn.
 - [Community Data Science Collective](https://wiki.communitydata.cc/Main_Page)
 - [GDP For the USA](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
 - [Global Health Observatory datasets](http://apps.who.int/gho/data/node.home)
-
+- [Microsoft Curated datasets](https://msropendata.com/)
 
 
