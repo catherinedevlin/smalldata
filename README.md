@@ -28,5 +28,7 @@ Data sources listed here should be easy for beginners to use.
 - [GDP For the USA](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
 - [Global Health Observatory datasets](http://apps.who.int/gho/data/node.home)
 
+## Tools 
 
+- [ezsheets](https://github.com/asweigart/ezsheets/) - Google Sheets access
 
